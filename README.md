@@ -1,6 +1,8 @@
+
+```md
 # TickTrack - SOC Ticketing System
 
-**TickTrack** is a lightweight, user-friendly SOC (Security Operations Center) ticketing system built with Python and PyQt5. It allows SOC analysts to manage and track tickets efficiently, ensuring critical signals are handled with the appropriate severity level. 
+**TickTrack** is a lightweight, user-friendly SOC (Security Operations Center) ticketing system built with Python and PyQt5. It allows SOC analysts to manage and track tickets efficiently, ensuring critical signals are handled with the appropriate severity level.
 
 ## Features
 
@@ -16,19 +18,26 @@
    Install PyQt5:
    ```bash
    pip install pyqt5
-2. **Download TickTrack**
-    Clone The Repository:
+   ```
+
+2. **Download TickTrack**:
+   Clone the repository:
    ```bash
-   git clone  https://github.com/SpyrosLefkaditis/TickTrack.git
-   
-3. **Navigate to the Project Directory:**
+   git clone https://github.com/SpyrosLefkaditis/TickTrack.git
+   ```
+
+3. **Navigate to the Project Directory**:
    ```bash
    cd TickTrack
-4.**Run the Application**
-If you are using windows use python TickTrack.py
-```bash
-python3 TickTrack.py
+   ```
 
-
-
-
+4. **Run the Application**:
+   - For Windows:
+   ```bash
+   python TickTrack.py
+   ```
+   - For Linux/macOS:
+   ```bash
+   python3 TickTrack.py
+   ```
+```
