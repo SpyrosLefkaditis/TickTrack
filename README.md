@@ -34,7 +34,7 @@
    - For Windows:
    ```bash
    python TickTrack.py
-   ```
+
    - For Linux/macOS:
    ```bash
    python3 TickTrack.py
