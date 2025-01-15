@@ -30,10 +30,12 @@
    cd TickTrack
    ```
 
+
 4. **Run the Application**:
    - For Windows:
    ```bash
    python TickTrack.py
+   ```
 
    - For Linux/macOS:
    ```bash
