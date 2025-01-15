@@ -17,7 +17,7 @@
    ```bash
    pip install pyqt5
 2. **Download TickTrack**
-    Clone The Repository
+    Clone The Repository:
    ```bash
    git clone  https://github.com/SpyrosLefkaditis/TickTrack.git
    
