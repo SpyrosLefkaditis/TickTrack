@@ -10,7 +10,6 @@
 - **Dashboard**: View the count of tickets grouped by severity level in real-time.
 - **Interactive Table**: Manage tickets with an intuitive table interface displaying key ticket details.
 - **Modern UI**: Powered by PyQt5 for a responsive and visually appealing interface.
-![TickTrack](https://github.com/user-attachments/assets/ae8472e8-a43c-486b-919a-f4ba9d29dc33)
 
 ## How to Use
 
