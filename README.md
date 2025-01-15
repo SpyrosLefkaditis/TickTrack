@@ -25,5 +25,10 @@
    ```bash
    cd TickTrack
 4.**Run the Application**
+If you are using windows use python TickTrack.py
 ```bash
-python3 TickTrack.py or python TickTrack.py (Windows)
+python3 TickTrack.py
+
+
+
+
