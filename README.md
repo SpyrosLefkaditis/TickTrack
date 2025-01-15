@@ -16,3 +16,14 @@
    Install PyQt5:
    ```bash
    pip install pyqt5
+2. **Download TickTrack**
+    Clone The Repository
+   ```bash
+   git clone  https://github.com/SpyrosLefkaditis/TickTrack.git
+   
+3. **Navigate to the Project Directory:**
+   ```bash
+   cd TickTrack
+4.**Run the Application**
+```bash
+python TickTrack.py
